@@ -1,5 +1,3 @@
-import java.util.Random;
-
 public class Main {
     public static void main(String[] args) {
         Box<Apple> fructBox1 = new Box<>();
